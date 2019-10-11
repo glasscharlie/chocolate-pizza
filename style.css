@@ -1,0 +1,51 @@
+.main {
+    background-color: lightblue;
+    width: 1200px;
+    height:1000px;
+    position:relative;
+}
+nav {
+    margin-left:300px;
+    margin-right:300px;
+}
+
+.cookie1 {
+    position:absolute;
+    top: 5%;
+    left:10%;
+}
+
+.imgOne {
+    top:5%;
+    position:absolute;
+    }
+.imgTwo {
+    top:5%;
+    position:absolute;
+}
+.imgThree {
+    top:5%;
+    position:absolute;
+}
+.imgFour {
+    top:5%;
+    position:absolute;
+}
+.imgFive {
+    top:5%;
+    position:absolute;
+}
+.imgSix {
+    top:5%;
+    position:absolute;
+}
+.imgSeven {
+    top:5%;
+    position:absolute;
+}
+.imgEight {
+    top:5%;
+    position:absolute;
+
+
+}
